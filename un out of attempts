@@ -1,0 +1,4 @@
+  } else {
+            console.log(`Unfortunately, you've run out of attempts. The secret number was ${secretNumber}.`);
+            rl.close();
+        }
